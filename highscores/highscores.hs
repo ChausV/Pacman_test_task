@@ -1,4 +1,3 @@
-20 speedy
 30 inky
 30 speedy
 50 pacman
@@ -8,3 +7,4 @@
 90 clyde
 100 pacman
 5140 _CHAUS_
+15910 _CHAUS
