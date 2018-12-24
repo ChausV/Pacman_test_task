@@ -1,4 +1,3 @@
-10 blinky
 20 speedy
 30 inky
 30 speedy
@@ -8,3 +7,4 @@
 80 inky
 90 clyde
 100 pacman
+5140 _CHAUS_
