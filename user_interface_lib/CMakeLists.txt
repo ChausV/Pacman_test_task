@@ -20,5 +20,5 @@ find_package(Curses REQUIRED)
 
 include_directories(${CURSES_INCLUDE_DIR})
 
-add_library(${UI_LIBRARY_NAME} SHARED ${UI_LIBRARY_SRC})
+add_library(${UI_LIBRARY_NAME} STATIC ${UI_LIBRARY_SRC})
 target_link_libraries(${UI_LIBRARY_NAME} ${CURSES_LIBRARIES})
